@@ -1,0 +1,8 @@
+lors de cette epreuve j'ai commencé par mettre a jour la base de donnée en creant la colone Image qui contient l'image  
+
+puis j'ai fait mis en place le theme qui n'etait pas present au debut, pour ce faire j'ai recupere le header deja present 
+dans salle.blade.php que j'ai implementé dans fiche.blade.php. se fesant, l'entete fonctionne correctement 
+
+pour finir j'ai appliquer les differentes balise html pour struture ma page, pour le titre et le batiment j'ai utliser la balise h1 
+pour les place j'ai attribuer la balise h2 et pour les services, equipements et l'image, j'ai mis en place un tableau de 3 ligne 
+la premiere contient les equipements, la deuxieme contient les services et la troisieme l'image
